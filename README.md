@@ -1,7 +1,7 @@
 # Bem vindo ao Projeto E-Comerce LambdaTest QA!
 
 <p align="center">
-  <img src='https://github.com/SueberDEV/PROJETO1_Selenium-Pyth_ExpertQAon_/blob/main/IMG/Swag%20Labs%20-%20Google%20Chrome.jpg' width='350'>
+  <img src='https://github.com/SueberDEV/PROJETO2_Selenium-Python_ExpertQA/blob/main/IMG/Your%20Store%20-%20Google%20Chrome.jpg?raw=true' width='350'>
   </p>
 
 Este repositório contém casos de teste automatizados para a aplicação [ecommerce-playground.lambdatest](https://ecommerce-playground.lambdatest.io/) utilizando Selenium e PyTest. Este projeto foi desenvolvido como parte do segundo projeto de conclusão do curso de automação de testes com Python e Selenium, da Academia QA Expert, ministrado pelo Paulo Oliveira.
